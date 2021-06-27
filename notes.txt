@@ -1,0 +1,19 @@
+
+29.1mb 5% cpu
+
+todo:
+    score based on how long youve been alive and also by how many you kill. killing gives more points
+    spawn rate and max asteroids change based on score.
+    collisions. upon colliding. game over. note the score down
+    log the scores onto a file.
+    maybe have an into and menu
+    some 8-bit music
+    https://youtu.be/5yfh5cf4-0w?t=801
+    background space image
+    also shooting and shrinking asteroids when shot.
+    enable rotation for player
+    shooting: create sprite that travels in the direction its shot at
+    if collides with an asteroid. get the asteroid pos
+    create 2 smaller sprites in its location and scale down
+    if scale factor is low enough, dont spawn(0.75, 0.5, 0.25)
+    https://youtu.be/9Z40OCV0u7o
